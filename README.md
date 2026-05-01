@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+
+I'm Sebastian Quevedo, a hands-on Software Engineer, and I've been working in tech since 2015.
+
+I enjoy contributing and teaching what i've learned through my years as developer.
+
+⚡ Technologies
+These are some of the technologies and tools that I work with:
+
+Backend: Java Spring
+
+Frontend JavaScript HTML5 CSS3 Sass TypeScript Angular
+
+Database: PostgreSQL MongoDB MySQL
+
+Cloud: Microsoft Azure Firebase
+
+Tools: Docker Git GitHub BitBucket JIRA JFrog
+
+IDEs: IntelliJ VSCode
+
 <!--
 **sebaquevedo/sebaquevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
