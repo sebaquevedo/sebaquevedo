@@ -20,6 +20,11 @@ Tools: Docker Git GitHub BitBucket JIRA JFrog
 
 IDEs: IntelliJ VSCode
 
+
+
+[![Linkedin: Sebastian Quevedo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/sebastian-quevedo/))]([https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/sebastian-quevedo/))
+
+
 <!--
 **sebaquevedo/sebaquevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
