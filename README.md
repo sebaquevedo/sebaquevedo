@@ -6,7 +6,7 @@ I'm Sebastian Quevedo, a hands-on Software Engineer, and I've been working in te
 I enjoy contributing and teaching what i've learned through my years as developer.
 
 
-[![Linkedin: Sebastian Quevedo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/sebastian-quevedo/))]([https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/sebastian-quevedo/))
+[![Linkedin: Sebastian Quevedo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/sebastian-quevedo/)](https://www.linkedin.com/in/sebastian-quevedo/))]([[https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/sebastian-quevedo/)](https://www.linkedin.com/in/sebastian-quevedo/))
 
 
 ## ⚡ Technologies
