@@ -30,7 +30,7 @@ Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?style=flat-square&logo=PostgreSQL&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?style=flat-square&logo=PostgreSQL&logoColor=#4169E1)
 
 Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
