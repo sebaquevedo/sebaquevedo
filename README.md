@@ -12,8 +12,10 @@ I enjoy contributing and teaching what i've learned through my years as develope
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
-AI: ![Ollama](https://img.shields.io/badge/ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-AI: ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+AI:
+![Ollama](https://img.shields.io/badge/ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 	
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
